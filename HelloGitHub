@@ -2,5 +2,8 @@
 
 class HelloGitHub
 {
-  
+  main()
+  {
+    System.out.println("hello github!");
+  }
 }
